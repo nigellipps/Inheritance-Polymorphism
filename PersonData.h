@@ -1,6 +1,4 @@
 // Nigel Lipps
-// CS 2, Section 140
-// Assignment 4, Problem 1
 // person data .h file
 
 #ifndef PersonData_h
