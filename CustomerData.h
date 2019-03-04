@@ -1,6 +1,4 @@
 // Nigel Lipps
-// CS 2, Section 140
-// Assignment 4, Problem 1
 // customer data .h file
 
 #ifndef CustomerData_h
